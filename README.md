@@ -1,5 +1,5 @@
 # DeviceConnect-Experiments
-\([for Japanese](#deviceconnect-experiments-1)\)
+([for Japanese](#deviceconnect-experiments-1))
 
 This repository contains demonstration environments as experiment.
 
@@ -24,7 +24,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 # DeviceConnect-Experiments
-\([for English](#deviceconnect-experiments-1)\)
+([for English](#deviceconnect-experiments))
 
 本レポジトリでは、デモ用として実験的に開発した環境を公開しています。
 
