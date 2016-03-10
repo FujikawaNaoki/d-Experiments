@@ -1,7 +1,15 @@
-# DeviceConnect-Experiments
-([for Japanese](#deviceconnect-experiments-1))
+##### [Repositories]
+Portal : [DeviceConnect](https://github.com/DeviceConnect/DeviceConnect)<br>
+For Android Developers : [DeviceConnect-Android](https://github.com/DeviceConnect/DeviceConnect-Android) / [DeviceConnect-JS](https://github.com/DeviceConnect/DeviceConnect-JS) / 
+[DeviceConnect-Common](https://github.com/DeviceConnect/DeviceConnect-Common)<br>
+For iOS Developers : [DeviceConnect-iOS](https://github.com/DeviceConnect/DeviceConnect-iOS)<br>
+Others : [DeviceConnect-Docs](https://github.com/DeviceConnect/DeviceConnect-Docs)
 
-This repository contains demonstration environments as experiment.
+
+# DeviceConnect-Experiments
+<a name="eng"></a>([for Japanese](#jpn))
+
+__DeviceConnect-Experiments__ contains demonstration environments as experiment.
 
 ### Environment List for Demo
 |#|Demo Name|Description|
@@ -24,7 +32,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 # DeviceConnect-Experiments
-([for English](#deviceconnect-experiments))
+<a name="jpn"></a>([for English](#eng))
 
 本レポジトリでは、デモ用として実験的に開発した環境を公開しています。
 
@@ -36,5 +44,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |3|[Home Electronics Demo](https://github.com/DeviceConnect/DeviceConnect-Experiments/tree/master/HomeElectronics)|ホームエレクトロニクス機器を制御するための規格 [ECHONET Lite](http://www.echonet.gr.jp/)に準拠したデバイスを、[SonyCSL](https://www.sonycsl.co.jp/)より提供されている ECHONET Lite 準拠アプリ[Kadecot](http://kadecot.net/) を利用してコントロールするデモです。|
 |4|[WebRTC Demo](https://github.com/DeviceConnect/DeviceConnect-Experiments/tree/master/WebRTC)|WebRTC用デモです。 注: 本デモ利用の際は、予め [Skyway-ID](http://nttcom.github.io/skyway/) の取得が必要となります。|
 |5|[Presentation Demo](https://github.com/DeviceConnect/DeviceConnect-Experiments/tree/master/PresentationDemo)|[SlideShare](http://www.slideshare.net/) にアップされているプレゼンテーション資料を、指定したデバイス(例えば[クロームキャスト](https://www.google.com/intl/ja_jp/chromecast/) へ表示させるデモです。また、指定したタイミングでデバイスを光らせる、振動させるといったことも同時に行うことができます。|
-
 
