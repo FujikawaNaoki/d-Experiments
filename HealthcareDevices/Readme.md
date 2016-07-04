@@ -17,6 +17,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
  - Wireless Connection Device with Android OS (Smartphone, STB etc...)
  - BLE Healthcare Devices. Following devices are just for your reference which were once checked their connectivity.
+ 
  | Category | Device Name | Device Vendor | Note |
  |------------|-----------------|------------------|-------|
  | Hearr Rate | MIO Alpha | MIO Global | |
